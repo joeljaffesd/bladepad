@@ -1,2 +1,9 @@
-# AlloLib-kickstart
-Plug-n-Play Build Env for AlloLib Projects
+# Bladepad
+
+## Using
+In a Bash shell, do:
+
+```bash
+./init.sh
+./run.sh src/bladepad.cpp
+```
